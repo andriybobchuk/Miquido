@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="photo_details">Photo Details</string>
+    <string name="back">Back</string>
+    <string name="loading_photo_details">Loading photo details...</string>
+    <string name="photo_by">Photo by %1$s</string>
+    <string name="image_id">Image ID: %1$s</string>
+    <string name="download_url">Download URL: %1$s</string>
+    <string name="dimensions_x">Dimensions: %1$s x %2$s</string>
+    <string name="unsplash">Unsplash</string>
+    <string name="the_request_timed_out">Request timed out</string>
+    <string name="youve_hit_your_rate_limit">You have hit your rate limit</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="file_too_large">File too large</string>
+    <string name="server_error">Server error</string>
+    <string name="error_serialization">Serialization error</string>
+    <string name="unknown_error">Unknown error has happened</string>
+    <string name="error_disk_full">Disk is full\n</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="not_found">Not found</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="conflict">Conflict</string>
+    <string name="image_load_failed_check_connection">Image load failed, check connection</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="image_failed">Image %1$s failed</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="photo_id">Photo ID %1$s</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="oops">Oops!</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="reload_images">Reload images</string>
+</resources>
